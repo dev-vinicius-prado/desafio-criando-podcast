@@ -16,7 +16,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ## Imagem de capa
 ![alt text](./assets/capa.png "Capa do podcast")
 
-📻 [áudio finalizado pode ser ouvido aqui](./output/podcast#1_codigo%20da%20matrix.mp3)
+📻 [áudio finalizado pode ser ouvido aqui](./output/podcast_codigo%20da%20matrix.mp3)
 
 ## Fontes de produção:
 
